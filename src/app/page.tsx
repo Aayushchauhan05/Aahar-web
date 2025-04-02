@@ -18,7 +18,7 @@ export default function Home() {
             viewport={{ once: true }}
             className=""
           >
-            <h1 className="text-4xl md:text-4xl font-extrabold flex justify-center items-center lg:block bg-gradient-to-r from-yellow-500 to-orange-600 bg-clip-text text-transparent drop-shadow-lg">
+            <h1 className="text-4xl md:text-4xl font-extrabold flex justify-center items-center lg:block bg-gradient-to-r from-yellow-500 to-orange-600 bg-clip-text text-transparent drop-shadow-lg mx-6 md:mx-0">
               Aahaar - Maa ke Haath ka Khana
             </h1>
             <p className="mt-4 text-gray-800 text-lg leading-relaxed lg:text-left text-center">
